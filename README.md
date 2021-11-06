@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joseph455
+- 👋 Hi, I’m Jospeh Adebowale
 - 👀 I’m interested in Backend web-developemnt with Nodejs and Python
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Django projeccts
