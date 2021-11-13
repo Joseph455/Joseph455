@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jospeh Adebowale
 - 👀 I’m interested in Backend web-developemnt with Nodejs and Python
 - 🌱 I’m currently learning Django 
-- 💞️ I’m looking to collaborate on Django projeccts
+- 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me adebowalejojo2001@gmail.com
 
 <!---
